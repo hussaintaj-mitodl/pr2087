@@ -11,3 +11,25 @@ leftnav:
   name: "\u30C6\u30B9\u30C8 \u30DA\u30FC\u30B8"
   pageRef: "/pages/\u30C6\u30B9\u30C8-\u30DA\u30FC\u30B8"
   weight: 30
+- identifier: 7dc9161b-dbd2-4f4f-83b1-436a9666cb9f
+  name: "\u30C6\u30B9\u30C8 \u30DA\u30FC\u30B8 PNG"
+  pageRef: "/resources/\u30C6\u30B9\u30C8-\u30DA\u30FC\u30B8_png"
+  weight: 40
+- identifier: 06a2e41c-278f-4d2f-b4fd-0e0a56042de3
+  name: "\u062D\u0633\u06CC\u0646 \u062A\u0627\u062C\u30C6\u30B9\u30C8 \u30DA\u30FC\
+    \u30B8"
+  pageRef: "/pages/\u062D\u0633\u06CC\u0646-\u062A\u0627\u062C\u30C6\u30B9\u30C8-\u30DA\
+    \u30FC\u30B8"
+  weight: 50
+- identifier: 882406ac-6850-4776-98d7-be4775e4ae38
+  name: "ltr\u062D\u0633\u06CC\u0646 \u062A\u0627\u062C"
+  pageRef: "/pages/ltr\u062D\u0633\u06CC\u0646-\u062A\u0627\u062C"
+  weight: 60
+- identifier: 56d6aae6-3685-4723-9ba5-4890ce26ac1a
+  name: control
+  pageRef: /pages/control
+  weight: 70
+- identifier: 22a48084-31c1-48dc-ad09-d98c89c4395c
+  name: control PNG
+  pageRef: /resources/control_png
+  weight: 80
