@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 3572dc92-0333-4a59-93a3-f71bcf4bbf33
+  name: "\u062D\u0633\u06CC\u0646 \u062A\u0627\u062C"
+  pageRef: "/pages/\u062D\u0633\u06CC\u0646-\u062A\u0627\u062C"
+  weight: 10
+- identifier: 9f46d1c0-5669-4e00-81d8-d62d948b4dda
+  name: "\u062D\u0633\u06CC\u0646 \u062A\u0627\u062C PNG"
+  pageRef: "/resources/\u062D\u0633\u06CC\u0646-\u062A\u0627\u062C_png"
+  weight: 20
+- identifier: 5643f51b-a0b8-4dd5-8718-5e3cf466b4fb
+  name: "\u30C6\u30B9\u30C8 \u30DA\u30FC\u30B8"
+  pageRef: "/pages/\u30C6\u30B9\u30C8-\u30DA\u30FC\u30B8"
+  weight: 30
